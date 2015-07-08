@@ -3,4 +3,4 @@ Angular directive to add support for touch events while maintaining support for 
 
 **Usage**
 
-`<span hg-touchdown="dosomething()" hg-touchup="dosomethingelse()" >Click or touch me!</span>`
+`<span hd-touchdown="dosomething()" hd-touchup="dosomethingelse()" >Click or touch me!</span>`
